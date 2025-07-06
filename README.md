@@ -35,7 +35,7 @@ The app follows a **Modular MVVM (Model-View-ViewModel)** architecture with sepa
 
 ## Installation
 
-You can download the latest APK from the [Releases Page](https://github.com/RajdeepMahanta/Agri-Vision/releases/download/v1.0/garivision-release.apk).
+You can download the latest APK from the [Releases Page](https://github.com/RajdeepMahanta/Agri-Vision/releases/download/v1.0/app-release.apk).
 
-Click here to [📦 Download APK](https://github.com/RajdeepMahanta/Agri-Vision/releases/download/v1.0/agrivision-release.apk).
+Click here to [📦 Download APK](https://github.com/RajdeepMahanta/Agri-Vision/releases/download/v1.0/app-release.apk).
 
